@@ -6,7 +6,7 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="OCR Text Extractor & Converter Solution" h2="Cloud RESTful & On Premise APIs to develop cloud, web & desktop based OCR applications for extracting text from images via optical character recognition." logoImageSrc="https://www.aspose.cloud/templates/brand/images/ocr/aspose_ocr-brand.png" imageAlt="" >}}
+{{< blocks/products/pf/family-upper-banner h1="OCR Text Extractor & Converter Solution" h2="Cloud RESTful & On Premise APIs to develop cloud, web & desktop based OCR applications for extracting text from images via optical character recognition." logoImageSrc="/headers/aspose_ocr-brand.png" imageAlt="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR Cloud APIs Include" >}}
