@@ -164,15 +164,15 @@ url: /net
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/ocr/curl" imgSrc="/sdk/aspose_ocr-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/curl/" imgSrc="/sdk/aspose_ocr-for-curl.png" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/ocr/net" imgSrc="/sdk/aspose_ocr-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/net/" imgSrc="/sdk/aspose_ocr-for-net.png" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/ocr/java" imgSrc="/sdk/aspose_ocr-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/java/" imgSrc="/sdk/aspose_ocr-for-java.png" platform="Java" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/ocr/android" imgSrc="/sdk/aspose_ocr-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/ocr/android/" imgSrc="/sdk/aspose_ocr-for-android.png" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/ocr/nodejs" imgSrc="/sdk/aspose_ocr-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/nodejs/" imgSrc="/sdk/aspose_ocr-for-node.png" platform="Node.js" >}}
 	
 {{< /blocks/products/pf/offers-section >}}
 

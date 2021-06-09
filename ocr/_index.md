@@ -23,7 +23,7 @@ Add Optical Character Recognition and document scanning functionalities to your 
 Python OCR API providing OCR functionality to recognize text on images.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="/ocr/family" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="/ocr/family/" innerText="View All Cloud APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

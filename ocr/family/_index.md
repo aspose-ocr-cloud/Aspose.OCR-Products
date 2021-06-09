@@ -11,27 +11,27 @@ url: /family
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_ocr-for-net.png" productLink="/ocr/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_ocr-for-net.png" productLink="/ocr/net/" >}}
 Enhance your C# and other .NET supported applications to extract text from images hosted on the cloud via OCR.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for Java" imgSrc="/sdk/aspose_ocr-for-java.png" productLink="/ocr/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for Java" imgSrc="/sdk/aspose_ocr-for-java.png" productLink="/ocr/java/" >}}
 Use platform independent optical character recognition Java REST API to build apps for performing OCR operations on raster images in the cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for Android" imgSrc="/sdk/aspose_ocr-for-android.png" productLink="/ocr/android" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for Android" imgSrc="/sdk/aspose_ocr-for-android.png" productLink="/ocr/android/" >}}
 Develop Mobile Apps & tools for Android devices to perform optical character recognition and document scanning operations in the cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for Python" imgSrc="/sdk/aspose_ocr-for-python.png" productLink="/ocr/python" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for Python" imgSrc="/sdk/aspose_ocr-for-python.png" productLink="/ocr/python/" >}}
 Use Python to add OCR functionality to your apps with Python OCR API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_ocr-for-node.png" productLink="/ocr/nodejs" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_ocr-for-node.png" productLink="/ocr/python/" >}}
 Add OCR functionality to your Node.js apps with simple OCR API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud for cURL" imgSrc="/sdk/aspose_ocr-for-curl.png" productLink="/ocr/curl" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud for cURL" imgSrc="/sdk/aspose_ocr-for-curl.png" productLink="/ocr/curl/" >}}
 Access raster images stored on the cloud & fetch their font and character information to extract text via OCR.
 {{< /blocks/products/pf/product >}}
 
