@@ -6,7 +6,7 @@ url: /android
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Android REST API to Build OCR Cloud Apps" h2="Develop Mobile Apps for Android devices to perform optical character recognition on raster images (BMP, JPG, GIF, PNG, TIFF) & automated image pre-processing in the cloud." logoImageSrc="/headers/aspose_ocr-for-android.png?v2" pfName="Aspose.OCR" subTitlepfName="Cloud SDK for Android" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Android REST API to Build OCR Cloud Apps" h2="Develop Mobile Apps for Android devices to perform optical character recognition on raster images (BMP, JPG, GIF, PNG, TIFF) & automated image pre-processing in the cloud." logoImageSrc="/headers/aspose_ocr-for-android.png" pfName="Aspose.OCR" subTitlepfName="SDK for Android" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="Cloud SDK for Android" >}}
 
@@ -152,10 +152,9 @@ url: /android
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.cloud/c/ocr" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.cloud" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/ocr/" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/ocr/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.OCR Cloud Product Family?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.OCR Cloud SDK for Android?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Security" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -172,6 +171,7 @@ url: /android
     {{< blocks/products/pf/offers-section-item link="/ocr/java/" imgSrc="/sdk/aspose_ocr-for-java.png" platform="Java" >}}
 	
 	{{< blocks/products/pf/offers-section-item link="/ocr/android/" imgSrc="/sdk/aspose_ocr-for-android.png" platform="Android" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/python/" imgSrc="/sdk/aspose_ocr-for-python.png" platform="Python" >}}
 	
     {{< blocks/products/pf/offers-section-item link="/ocr/nodejs/" imgSrc="/sdk/aspose_ocr-for-node.png" platform="Node.js" >}}
 	

@@ -50,7 +50,6 @@ Access raster images stored on the cloud & fetch their font and character inform
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.cloud/c/ocr" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.cloud" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/ocr/" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/ocr/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.OCR Cloud Product Family?" tabId="success-stories" >}}
