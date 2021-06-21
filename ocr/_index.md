@@ -11,15 +11,15 @@ url: /
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_ocr-for-net.png" >}}
+{{< blocks/products/pf/product productLink="ocr/net/" pfName="Aspose.OCR" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_ocr-for-net.png" >}}
 Build cloud-based OCR text extraction applications in C# or other .NET supported languages.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for Java" imgSrc="/sdk/aspose_ocr-for-java.png" >}}
+{{< blocks/products/pf/product productLink="ocr/java/" pfName="Aspose.OCR" title="Cloud SDK for Java" imgSrc="/sdk/aspose_ocr-for-java.png" >}}
 Add Optical Character Recognition and document scanning functionalities to your Java applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud for Python" imgSrc="/sdk/aspose_ocr-for-python.png" >}}
+{{< blocks/products/pf/product productLink="ocr/python/" pfName="Aspose.OCR" title="Cloud for Python" imgSrc="/sdk/aspose_ocr-for-python.png" >}}
 Python OCR API providing OCR functionality to recognize text on images.
 {{< /blocks/products/pf/product >}}
 
@@ -29,33 +29,33 @@ Python OCR API providing OCR functionality to recognize text on images.
 
 {{< blocks/products/pf/product-card-row title="Aspose.OCR On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-net.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/ocr/net/" pfName="Aspose.OCR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-net.png" >}}
 Native .NET library to build web or desktop based OCR programs for extracting text from images.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-java.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/ocr/java/" pfName="Aspose.OCR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-java.png" >}}
 Use Java on premise API for building optical character recognition applications for desktop or web.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-cpp.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/ocr/cpp/" pfName="Aspose.OCR for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-cpp.png" >}}
 Add word recognition and text extraction capilities within C++ based OCR software applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/family" innerText="View All On Premise APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/family/" innerText="View All On Premise APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< blocks/products/pf/product-card-row title="Aspose.OCR Cross Platform Apps Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR " title="Convert Image to Text" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_image-app.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.app/ocr/scan-image" pfName="Aspose.OCR " title="Convert Image to Text" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_image-app.png" >}}
 Free online text extraction app to get text from image via OCR. Works for camera captured & uploaded images.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR " title="Convert Image to PDF" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_image-app.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.app/ocr/ocr-to-pdf" pfName="Aspose.OCR " title="Convert Image to PDF" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_image-app.png" >}}
 Free online app to convert Image to searchable PDF using any browser.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR " title="Scan Receipt" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose-scan-receipt.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.app/ocr/scan-receipt" pfName="Aspose.OCR " title="Scan Receipt" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose-scan-receipt.png" >}}
 Free online app to scan Receipt Images.
 {{< /blocks/products/pf/product >}}
 
