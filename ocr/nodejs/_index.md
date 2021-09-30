@@ -6,11 +6,11 @@ url: /nodejs
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Convert Images to Text with Aspose.OCR Node.js SDK" h2="Build cloud-based applications with Optical Character Recognition (OCR) functionality using Aspose.OCR Cloud API to recognize text from raster images." logoImageSrc="/headers/aspose_ocr-for-node.png" pfName="Aspose.OCR" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Convert Images to Text with Aspose.OCR Node.js SDK" h2="Build cloud-based applications with Optical Character Recognition (OCR) functionality using Aspose.OCR Cloud API to recognize text from raster images." logoImageSrc="/headers/aspose_ocr-for-node.svg" pfName="Aspose.OCR" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="Cloud SDK for Node.js" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_ocr-for-node.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud"  docsLink="https://docs.aspose.cloud/ocr" directDownloadLink="https://github.com/aspose-ocr-cloud/aspose-ocr-cloud-nodejs" liveDemosLink="https://products.aspose.app/ocr/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_ocr-for-node.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud"  docsLink="https://docs.aspose.cloud/ocr" directDownloadLink="https://github.com/aspose-ocr-cloud/aspose-ocr-cloud-nodejs" liveDemosLink="https://products.aspose.app/ocr/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Add image recognition functionality to your applications using Aspose.OCR Cloud Node.js SDK. Our simple API allows you accurately recognize text in several languages on images in popular formats.</p>
@@ -43,7 +43,7 @@ url: /nodejs
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_ocr-for-node.png" alt="OCR Node.js Cloud"><header>Aspose.OCR</header><footer>Cloud <small> <em>for </em> </small>Node.js</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_ocr-for-node.svg" alt="OCR Node.js Cloud"><header>Aspose.OCR</header><footer>Cloud <small> <em>for </em> </small>Node.js</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -65,7 +65,7 @@ url: /nodejs
  </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_ocr-for-node.png" alt="Node.js Cloud SDK for OCR"><header>Aspose.OCR</header><footer>Cloud <small> <em>for </em> </small>Node.js</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_ocr-for-node.svg" alt="Node.js Cloud SDK for OCR"><header>Aspose.OCR</header><footer>Cloud <small> <em>for </em> </small>Node.js</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -157,16 +157,16 @@ url: /nodejs
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/ocr/curl/" imgSrc="/sdk/aspose_ocr-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/curl/" imgSrc="/sdk/aspose_ocr-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/ocr/net/" imgSrc="/sdk/aspose_ocr-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/net/" imgSrc="/sdk/aspose_ocr-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/ocr/java/" imgSrc="/sdk/aspose_ocr-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/java/" imgSrc="/sdk/aspose_ocr-for-java.svg" platform="Java" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/ocr/android/" imgSrc="/sdk/aspose_ocr-for-android.png" platform="Android" >}}
-{{< blocks/products/pf/offers-section-item link="/ocr/python/" imgSrc="/sdk/aspose_ocr-for-python.png" platform="Python" >}}
+	{{< blocks/products/pf/offers-section-item link="/ocr/android/" imgSrc="/sdk/aspose_ocr-for-android.svg" platform="Android" >}}
+{{< blocks/products/pf/offers-section-item link="/ocr/python/" imgSrc="/sdk/aspose_ocr-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/ocr/nodejs/" imgSrc="/sdk/aspose_ocr-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/nodejs/" imgSrc="/sdk/aspose_ocr-for-node.svg" platform="Node.js" >}}
 	
 {{< /blocks/products/pf/offers-section >}}
 

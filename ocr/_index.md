@@ -6,20 +6,20 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="OCR Text Extractor & Converter Solution" h2="Cloud RESTful & On Premise APIs to develop cloud, web & desktop based OCR applications for extracting text from images via optical character recognition." logoImageSrc="/headers/aspose_ocr-brand.png" imageAlt="" >}}
+{{< blocks/products/pf/family-upper-banner h1="OCR Text Extractor & Converter Solution" h2="Cloud RESTful & On Premise APIs to develop cloud, web & desktop based OCR applications for extracting text from images via optical character recognition." logoImageSrc="/headers/aspose_ocr-brand.svg" imageAlt="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product productLink="/ocr/net/" pfName="Aspose.OCR" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_ocr-for-net.png" >}}
+{{< blocks/products/pf/product productLink="/ocr/net/" pfName="Aspose.OCR" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_ocr-for-net.svg" >}}
 Build cloud-based OCR text extraction applications in C# or other .NET supported languages.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="/ocr/java/" pfName="Aspose.OCR" title="Cloud SDK for Java" imgSrc="/sdk/aspose_ocr-for-java.png" >}}
+{{< blocks/products/pf/product productLink="/ocr/java/" pfName="Aspose.OCR" title="Cloud SDK for Java" imgSrc="/sdk/aspose_ocr-for-java.svg" >}}
 Add Optical Character Recognition and document scanning functionalities to your Java applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="/ocr/python/" pfName="Aspose.OCR" title="Cloud for Python" imgSrc="/sdk/aspose_ocr-for-python.png" >}}
+{{< blocks/products/pf/product productLink="/ocr/python/" pfName="Aspose.OCR" title="Cloud for Python" imgSrc="/sdk/aspose_ocr-for-python.svg" >}}
 Python OCR API providing OCR functionality to recognize text on images.
 {{< /blocks/products/pf/product >}}
 

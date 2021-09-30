@@ -6,11 +6,11 @@ url: /net
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C# .NET REST API to Build OCR Applications" h2="Make your own Optical Character Recognition (OCR) programs to recognize & English, Spanish & French text from raster images stored on the cloud." logoImageSrc="/headers/aspose_ocr-for-net.png" pfName="Aspose.OCR" subTitlepfName="Cloud SDK for .NET" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="C# .NET REST API to Build OCR Applications" h2="Make your own Optical Character Recognition (OCR) programs to recognize & English, Spanish & French text from raster images stored on the cloud." logoImageSrc="/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="Cloud SDK for .NET" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="Cloud SDK for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_ocr-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/ocr" directDownloadLink="https://github.com/aspose-ocr-cloud/aspose-ocr-cloud-dotnet" liveDemosLink="https://products.aspose.app/ocr/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_ocr-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/ocr" directDownloadLink="https://github.com/aspose-ocr-cloud/aspose-ocr-cloud-dotnet" liveDemosLink="https://products.aspose.app/ocr/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.OCR Cloud SDK for .NET assists .NET programmers to develop OCR processing and manipulation apps for cloud using their .NET supported language of choice (e.g., C#, ASP.NET etc.). Our OCR Cloud SDK is based on Aspose.OCR REST API and is offered under an MIT license.</p>
@@ -43,7 +43,7 @@ url: /net
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_ocr-for-net.png" alt="OCR .NET Cloud"><header>Aspose.OCR</header><footer>Cloud <small> <em>for </em> </small>.NET</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_ocr-for-net.svg" alt="OCR .NET Cloud"><header>Aspose.OCR</header><footer>Cloud <small> <em>for </em> </small>.NET</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -65,7 +65,7 @@ url: /net
  </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_ocr-for-net.png" alt=".NET Cloud SDK for OCR"><header>Aspose.OCR</header><footer>Cloud <small> <em>for </em> </small>.NET</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_ocr-for-net.svg" alt=".NET Cloud SDK for OCR"><header>Aspose.OCR</header><footer>Cloud <small> <em>for </em> </small>.NET</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -163,16 +163,16 @@ url: /net
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/ocr/curl/" imgSrc="/sdk/aspose_ocr-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/curl/" imgSrc="/sdk/aspose_ocr-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/ocr/net/" imgSrc="/sdk/aspose_ocr-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/net/" imgSrc="/sdk/aspose_ocr-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/ocr/java/" imgSrc="/sdk/aspose_ocr-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/java/" imgSrc="/sdk/aspose_ocr-for-java.svg" platform="Java" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/ocr/android/" imgSrc="/sdk/aspose_ocr-for-android.png" platform="Android" >}}
-    {{< blocks/products/pf/offers-section-item link="/ocr/python/" imgSrc="/sdk/aspose_ocr-for-python.png" platform="Python" >}}
+	{{< blocks/products/pf/offers-section-item link="/ocr/android/" imgSrc="/sdk/aspose_ocr-for-android.svg" platform="Android" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/python/" imgSrc="/sdk/aspose_ocr-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/ocr/nodejs/" imgSrc="/sdk/aspose_ocr-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/nodejs/" imgSrc="/sdk/aspose_ocr-for-node.svg" platform="Node.js" >}}
 	
 {{< /blocks/products/pf/offers-section >}}
 
