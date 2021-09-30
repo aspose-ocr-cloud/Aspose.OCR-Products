@@ -29,15 +29,15 @@ Python OCR API providing OCR functionality to recognize text on images.
 
 {{< blocks/products/pf/product-card-row title="Aspose.OCR On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product productLink="https://products.aspose.com/ocr/net/" pfName="Aspose.OCR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-net.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/ocr/net/" pfName="Aspose.OCR for " title=".NET" imgSrc="/product-logos/aspose_ocr-for-net.svg" >}}
 Native .NET library to build web or desktop based OCR programs for extracting text from images.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="https://products.aspose.com/ocr/java/" pfName="Aspose.OCR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-java.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/ocr/java/" pfName="Aspose.OCR for " title="Java" imgSrc="/product-logos/aspose_ocr-for-java.svg" >}}
 Use Java on premise API for building optical character recognition applications for desktop or web.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="https://products.aspose.com/ocr/cpp/" pfName="Aspose.OCR for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-cpp.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/ocr/cpp/" pfName="Aspose.OCR for " title="C++" imgSrc="/product-logos/aspose_ocr-for-cpp.svg" >}}
 Add word recognition and text extraction capilities within C++ based OCR software applications.
 {{< /blocks/products/pf/product >}}
 
