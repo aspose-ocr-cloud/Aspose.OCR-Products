@@ -114,8 +114,7 @@ url: /curl
 </div>
 </div>
 </div>
-</div>
-</div>
+
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
