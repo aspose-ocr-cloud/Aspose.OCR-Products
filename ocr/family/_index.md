@@ -9,7 +9,7 @@ url: /family
 {{< blocks/products/pf/upper-banner h1="Cloud SDKs & REST APIs to Perform OCR on Images" h2="Easy Optical Character Recognition (OCR) to extract English, Spanish or French text from cloud-based raster images using cURL or .NET REST APIs." logoImageSrc="/headers/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.OCR Cloud APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.OCR Low Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_ocr-for-net.svg" productLink="/ocr/net/" >}}
 Enhance your C# and other .NET supported applications to extract text from images hosted on the cloud via OCR.

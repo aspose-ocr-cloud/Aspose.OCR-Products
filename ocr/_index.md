@@ -9,7 +9,7 @@ url: /
 {{< blocks/products/pf/family-upper-banner h1="OCR Text Extractor & Converter Solution" h2="Cloud RESTful & On Premise APIs to develop cloud, web & desktop based OCR applications for extracting text from images via optical character recognition." logoImageSrc="/headers/aspose_ocr-brand.svg" imageAlt="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.OCR Cloud APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.OCR Low Code APIs Include" >}}
 
 {{< blocks/products/pf/product productLink="/ocr/net/" pfName="Aspose.OCR" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_ocr-for-net.svg" >}}
 Build cloud-based OCR text extraction applications in C# or other .NET supported languages.
@@ -23,11 +23,11 @@ Add Optical Character Recognition and document scanning functionalities to your 
 Python OCR API providing OCR functionality to recognize text on images.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="/ocr/family/" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="/ocr/family/" innerText="View All Low Code APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.OCR On Premise APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.OCR High Code APIs Include" >}}
 
 {{< blocks/products/pf/product productLink="https://products.aspose.com/ocr/net/" pfName="Aspose.OCR for " title=".NET" imgSrc="/product-logos/aspose_ocr-for-net.svg" >}}
 Native .NET library to build web or desktop based OCR programs for extracting text from images.
@@ -45,7 +45,7 @@ Add word recognition and text extraction capilities within C++ based OCR softwar
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.OCR Cross Platform Apps Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.OCR No Code Apps Include" >}}
 
 {{< blocks/products/pf/product productLink="https://products.aspose.app/ocr/scan-image" pfName="Aspose.OCR " title="Convert Image to Text" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_image-app.png" >}}
 Free online text extraction app to get text from image via OCR. Works for camera captured & uploaded images.
@@ -59,7 +59,7 @@ Free online app to convert Image to searchable PDF using any browser.
 Free online app to scan Receipt Images.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/ocr/family" innerText="View All Cross Platform Apps" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/ocr/family" innerText="View All No Code Apps" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
