@@ -27,7 +27,7 @@ Develop Mobile Apps & tools for Android devices to perform optical character rec
 Use Python to add OCR functionality to your apps with Python OCR API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_ocr-for-node.svg" productLink="/ocr/python/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_ocr-for-node.svg" productLink="/ocr/nodejs/" >}}
 Add OCR functionality to your Node.js apps with simple OCR API.
 {{< /blocks/products/pf/product >}}
 
