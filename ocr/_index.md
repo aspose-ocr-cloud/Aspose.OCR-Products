@@ -1,26 +1,26 @@
 ﻿---
-title: OCR Solutions | REST APIs, On-Premise APIs, Online Apps 
-description: Cloud RESTful & On Premise APIs to develop cloud, web & desktop based OCR applications for extracting text from images via optical character recognition
+title: Cloud OCR API for on-premise and online solutions
+description: Develop desktop, web and cloud optical character recognition solutions by delegating all the heavy lifting to our cloud-based REST API.
 weight: 70
 url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="OCR Text Extractor & Converter Solution" h2="Cloud RESTful & On Premise APIs to develop cloud, web & desktop based OCR applications for extracting text from images via optical character recognition." logoImageSrc="/headers/aspose_ocr-brand.svg" imageAlt="" >}}
+{{< blocks/products/pf/family-upper-banner h1="REST API and SDKs for optical character recognition" h2="Convert images to text and create searchable PDFs from scanned documents on any device by calling our cloud-based OCR REST API from any platform and programming language." logoImageSrc="/headers/aspose_ocr-brand.svg" imageAlt="Cloud-based OCR and SDKs" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR Low Code APIs Include" >}}
 
 {{< blocks/products/pf/product productLink="/ocr/net/" pfName="Aspose.OCR" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_ocr-for-net.svg" >}}
-Build cloud-based OCR text extraction applications in C# or other .NET supported languages.
+Communicate with our cloud OCR API from your .NET applications, focusing on business logic rather than technical details.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product productLink="/ocr/java/" pfName="Aspose.OCR" title="Cloud SDK for Java" imgSrc="/sdk/aspose_ocr-for-java.svg" >}}
-Add Optical Character Recognition and document scanning functionalities to your Java applications.
+Use Aspose.OCR Cloud from Java. Perform all API request routines with a few lines of of code that is easy to read an maintain.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product productLink="/ocr/python/" pfName="Aspose.OCR" title="Cloud for Python" imgSrc="/sdk/aspose_ocr-for-python.svg" >}}
-Python OCR API providing OCR functionality to recognize text on images.
+Extend your cross-platform data science, AI, and automation solutions written in Python with optical character recognition.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="/ocr/family/" innerText="View All Low Code APIs" >}}
@@ -30,15 +30,15 @@ Python OCR API providing OCR functionality to recognize text on images.
 {{< blocks/products/pf/product-card-row title="Aspose.OCR High Code APIs Include" >}}
 
 {{< blocks/products/pf/product productLink="https://products.aspose.com/ocr/net/" pfName="Aspose.OCR for " title=".NET" imgSrc="/product-logos/aspose_ocr-for-net.svg" >}}
-Native .NET library to build web or desktop based OCR programs for extracting text from images.
+Install NuGet package into your .NET project and perform OCR on images and PDFs from desktop and web applications.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product productLink="https://products.aspose.com/ocr/java/" pfName="Aspose.OCR for " title="Java" imgSrc="/product-logos/aspose_ocr-for-java.svg" >}}
-Use Java on premise API for building optical character recognition applications for desktop or web.
+Add OCR functionality to any platform that supports Java. Extract rich text from images and scanned PDF documents.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product productLink="https://products.aspose.com/ocr/cpp/" pfName="Aspose.OCR for " title="C++" imgSrc="/product-logos/aspose_ocr-for-cpp.svg" >}}
-Add word recognition and text extraction capilities within C++ based OCR software applications.
+Enhance your C++ applications with optical character recognition capabilities. OCR in C++ has never been easier.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/family/" innerText="View All On Premise APIs" >}}
@@ -48,22 +48,22 @@ Add word recognition and text extraction capilities within C++ based OCR softwar
 {{< blocks/products/pf/product-card-row title="Aspose.OCR No Code Apps Include" >}}
 
 {{< blocks/products/pf/product productLink="https://products.aspose.app/ocr/scan-image" pfName="Aspose.OCR " title="Convert Image to Text" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_image-app.png" >}}
-Free online text extraction app to get text from image via OCR. Works for camera captured & uploaded images.
+Convert any popular image format to text. Supports 26 languages based on Latin, Cyrillic and Chinese scrips.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product productLink="https://products.aspose.app/ocr/ocr-to-pdf" pfName="Aspose.OCR " title="Convert Image to PDF" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_image-app.png" >}}
-Free online app to convert Image to searchable PDF using any browser.
+Create searchable PDFs from scanned images or screenshots using your favorite browser.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product productLink="https://products.aspose.app/ocr/scan-receipt" pfName="Aspose.OCR " title="Scan Receipt" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose-scan-receipt.png" >}}
-Free online app to scan Receipt Images.
+Automatically extract text from scanned or photographed receipts without manual re-typing.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.app/ocr/family" innerText="View All No Code Apps" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/testimonials successStoryLink="https://downloads.aspose.com/corporate/success-stories/aspose.total/" title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose." >}}
+{{< blocks/products/pf/testimonials successStoryLink="https://downloads.aspose.com/corporate/success-stories/aspose.total/" title="What People Are Saying" subTitle="Don't take our word for it. See what others are saying about Aspose." >}}
 
 {{< blocks/products/pf/testimonials-quote poster="Doug Downer | DYNECON, USA">}}
 Our overall experience with Aspose’s product has been very impressive. Aspose integration into our product suite reduced our internal product development overhead and ensured accurate and reliable generation of files in a seamless and secure manner.

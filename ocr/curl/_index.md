@@ -1,20 +1,20 @@
 ﻿---
-title: cURL OCR Recognition & Image to Text Converter | OCR REST API 
-description: Enhance your cloud-based cURL OCR Apps to perform OCR on raster images, recognize English, French or Spanish text and response in XML or JSON formats
+title: REST API for optical character recognition
+description: Use cURL commands and scripts to perform text recognition on scanned images and PDFs without downloading and installing any software.
 weight: 30
 url: /curl
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Build OCR Recognition & Converter Tools in cURL" h2="Enhance your cloud-based cURL OCR Apps to perform OCR on raster images, recognize English, French or Spanish text and response in XML or JSON formats." logoImageSrc="/headers/aspose_ocr-for-curl.svg" pfName="Aspose.OCR" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.OCR Cloud REST API" h2="Extract text from images and create searchable PDFs directly from the command line or Bash scripts without installing any software." logoImageSrc="/headers/aspose_ocr-for-curl.svg" pfName="Aspose.OCR" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="Cloud for cURL" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_ocr-for-curl.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/ocr" directDownloadLink="https://github.com/aspose-ocr-cloud/" liveDemosLink="https://products.aspose.app/ocr/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.OCR Cloud for cURL helps developers easily develop cloud-based OCR applications via cURL commands. It assists your cURL OCR programs to work as an OCR service that can perform Optical Character Recognition (OCR) on raster images (BMP, JPG, GIF, PNG, TIFF) stored in the cloud and recognize English, French and Spanish characters via OCR technology.</p>
-<p>Aspose.OCR Cloud for cURL, allows you to read character and font information from the provided raster image. You can also provide X and Y coordinates to perform OCR operation on a specific portion of the raster image. The response is returned in the XML or JSON formats. The OCR extracted text can be exported to TXT, PDF and HOCR formats.</p>
+<p>Aspose.OCR Cloud is a powerful and cost-effective REST API for optical character recognition. With it, you can recognize texts in 26 languages based on Latin, Cyrillic and Chinese from scanned images, smartphone photos, screenshots, areas of images, and scanned PDFs. Recognition results are returned in the most popular document and data exchange formats, including plain text and JSON.</p>
+<p>You do not need to install any software to use our OCR cloud services. Just use cURL commands or combine them into scripts for complex tasks. You can also use third party REST API tools like Postman.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -23,25 +23,88 @@ url: /curl
 {{< blocks/products/pf/carousel-item h3="At a Glance"  >}}
 <div class="diagram1 d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-font"> </i>Supported Fonts</header><ul><li>Arial</li>
-<li>Times New Roman</li>
-<li>Courier New</li>
-<li>Tahoma</li>
-<li>Calibri</li>
-<li>Verdana</li>
-</ul><header><i class="fa fa-text-width"> </i>Supported Font Styles</header><ul><li>Regular</li>
-<li>Bold</li>
-<li>Italic</li>
-</ul></div>
+<div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    Core Features
+   </header>
+   <ul>
+    <li>
+     Extract text from scans and photos
+    </li>
+    <li>
+     Create searchable PDFs
+    </li>
+    <li>
+     Automatic image corrections
+    </li>
+    <li>
+     Support multiple typefaces
+    </li>
+    <li>
+     Preserve text formatting
+    </li>
+    <li>
+     Detect text fragments
+    </li>
+    <li>
+     Multi-page processing
+    </li>
+    <li>
+     Spell checking
+    </li>
+   </ul>
+</div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-language"> </i>Supported Languages</header><ul><li>English</li>
-<li>French</li>
-<li>Spanish</li>
-<li>Portuguese</li>
-</ul></div>
+<div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-language">
+    </i>
+    Supported Languages
+   </header>
+   <ul>
+    <li>
+     English
+    </li>
+    <li>
+     Chinese
+    </li>
+    <li>
+     German
+    </li>
+    <li>
+     French
+    </li>
+    <li>
+     Ukrainian
+    </li>
+    <li>
+     Spanish
+    </li>
+    <li>
+     Czech
+    </li>
+    <li>
+     Polish
+    </li>
+    <li>
+     Romanian
+    </li>
+    <li>
+     Dutch
+    </li>
+    <li>
+     Russian
+    </li>
+    <li>
+     and 10+ more
+    </li>
+   </ul>
+</div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_ocr-for-curl.svg" alt="OCR cURL Cloud"><header>Aspose.OCR</header><footer>Cloud <small> <em>for </em> </small>cURL</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_ocr-for-curl.svg" alt="OCR as a service"><header>Aspose.OCR</header><footer>Cloud <small> <em>for </em> </small>cURL</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -49,21 +112,52 @@ url: /curl
 {{< blocks/products/pf/carousel-item h3="Supported File Formats" >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-long-arrow-down "> </i>Input Only</header><ul><li>BMP</li>
-<li>JPG</li>
-<li>GIF</li>
-<li>PNG</li>
-<li>TIFF</li>
-</ul></div>
+<div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Source files
+   </header>
+   <ul>
+    <li>
+     PDF
+    </li>
+    <li>
+     JPEG
+    </li>
+    <li>
+     PNG
+    </li>
+    <li>
+     TIFF
+    </li>
+    <li>
+     GIF
+    </li>
+    <li>
+     BMP
+    </li>
+   </ul>
+</div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-mail-forward "> </i>Output Only</header><ul><li>TXT</li>
-<li>PDF</li>
-<li>HOCR</li>
-</ul>
+<div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Recognition results
+   </header>
+   <ul>
+    <li>Searchable PDF</li>
+    <li>Microsoft Word</li>
+    <li>Microsoft Excel</li>
+    <li>Plain text</li>
+    <li>JSON</li>
+    <li>XML</li>
+   </ul>
  </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_ocr-for-curl.svg" alt="cURL Cloud for OCR"><header>Aspose.OCR</header><footer>Cloud <small> <em>for </em> </small>cURL</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_ocr-for-curl.svg" alt="Cloud-based OCR REST API"><header>Aspose.OCR</header><footer>Cloud <small> <em>for </em> </small>cURL</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -80,37 +174,111 @@ url: /curl
 <div class="container-fluid features-section bg-gray"><a id="features" class="anchor" name="features"></a> 
 <div class="row">
 <div class="container">
-<h2 class="pr-ft">Advanced OCR REST API Features</h2>
+<h2 class="pr-ft">Features and capabilities of Aspose.OCR Cloud</h2>
 <p> </p>
-<div class="col-lg-4"><em class="fa fa-file-text-o  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Extract text from image files and recognize via OCR</p>
+
+<div class="col-lg-4">
+	<em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+	</em>
+	<p class="col-lg-10">
+	Extracts text from scanned images and PDFs
+	</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-image  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Perform OCR on whole image or a specific portion to extract text</p>
+<div class="col-lg-4">
+	<em class="fa fa-image ico-blue fa-2x col-lg-2">
+	</em>
+	<p class="col-lg-10">
+	Supports all image formats you can get from a scanner or camera
+	</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-language  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Specify portion of the image for text extraction</p>
+<div class="col-lg-4">
+	<em class="fa fa-globe ico-blue fa-2x col-lg-2">
+	</em>
+	<p class="col-lg-10">
+	Reads languages based on Latin and Cyrillic
+	</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-font  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Extract font and character information of raster images</p>
+<div class="col-lg-4">
+	<em class="fa fa-language ico-blue fa-2x col-lg-2">
+	</em>
+	<p class="col-lg-10">
+	Recognizes more than 6,000 Chinese characters
+	</p>
 </div>
-<div class="col-lg-4"><em class="fa  fa-bold ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Support for response in JSON or XML format</p>
+<div class="col-lg-4">
+	<em class="fa fa-bold ico-blue fa-2x col-lg-2">
+	</em>
+	<p class="col-lg-10">
+	Carefully preserves font styles and formatting
+	</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-image  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Recognize English, Spanish or French text from images</p>
+<div class="col-lg-4">
+	<em class="fa fa-image ico-blue fa-2x col-lg-2">
+	</em>
+	<p class="col-lg-10">
+	Processes the whole image or specific areas only
+	</p>
+</div>
+<div class="col-lg-4">
+	<em class="fa fa-map ico-blue fa-2x col-lg-2">
+	</em>
+	<p class="col-lg-10">
+	Automatically corrects rotated, skewed and noisy images
+	</p>
+</div>
+<div class="col-lg-4">
+	<em class="fa fa-check ico-blue fa-2x col-lg-2">
+	</em>
+	<p class="col-lg-10">
+	Finds and automatically corrects misspelled words
+	</p>
+</div>
+<div class="col-lg-4">
+	<em class="fa fa-cloud ico-blue fa-2x col-lg-2">
+	</em>
+	<p class="col-lg-10">
+	Requires minimal resources on the end user devices
+	</p>
 </div>
 <div class="col-lg-12">
-<h2 class="h2title">Get Started with Image Scanning REST API</h2>
-<p>It is easy to get started with Aspose.OCR Cloud for cURL and there is nothing to install. Simply create an account at <a href="https://dashboard.aspose.cloud/#/">Aspose for Cloud</a> and get your application information. Once you have the App SID & key, you are ready to give a try to Aspose.OCR Cloud for cURL.</p>
+<h2 class="h2title">26 Recognition Languages</h2>
+<p>Our cloud API can recognize a large number of languages written in different scripts.</p>
+<ul>
+<li><b>Extended Latin alphabet</b>: Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Italian, Latvian, Lithuanian, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish.</li>
+<li><b>Cyrillic alphabet</b>: Belorussian, Bulgarian, Kazakh, Russian, Serbian, Ukrainian.</li>
+<li><b>Chinese</b>: more than 6,000 characters.</li>
+</ul>
 </div>
 <div class="col-lg-12">
-<h2 class="h2title">Cloud OCR API to Extract Content from Images</h2>
-<p>You can perform OCR on whole area of an image or select a specific section of the image for text recognition and extraction. In order to perform scan and OCR of a partial area of an image, Aspose.OCR Cloud for cURL lets to specify X and Y coordinates of the rectangular area to recognize and extract information related to characters and fonts and return the response in JSON or XML format.</p>
+<h2 class="h2title">Read photos and low-quality scans</h2>
+<p>Our API has powerful built-in image pre-processing filters that can correct rotated and skewed images, and automatically remove dirt, spots, scratches, glare, unwanted gradients, and other image defects. In combination with support for all image formats, it allows for reliable recognition of even smartphone photos. Most of the pre-processing and image correction is done automatically, so you will only have to intervene in difficult cases.</p>
 </div>
 <div class="col-lg-12">
-<h2 class="h2title">Recognize Characters of Different Languages</h2>
-<p>Aspose.OCR Cloud for cURL has the ability to detect characters of different languages from various representations. Using our OCR execution cURL commands you can easily detect character representations of English, Spanish and French languages.</p>
+<h2 class="h2title">Recognize and convert</h2>
+<p>The API can read literally any image you can get from a scanner, camera or smartphone: PDF documents, JPEG, PNG, TIFF, GIF, and BMP images. Multi-page PDF documents and TIFF files are fully supported.</p>
+<p>Recognition results are returned in the most popular document and data exchange formats: plain text, PDF, Microsoft Word, Microsoft Excel, JSON, and XML.</p>
+</div>
+<div class="col-lg-12">
+<h2 class="h2title">Minimal System Requirements</h2>
+<p>Aspose.OCR Cloud is an on-demand optical character recognition service. As such, it has no special hardware or operating system requirements - you can use it even on entry-level systems and mobile devices without loss of accuracy and performance.</p>
+<p>We use highly reliable and high performance GPU-based Amazon servers to host our OCR engine, ensuring the fastest possible speed regardless of the number of requests.</p>
+</div>
+<div class="col-lg-12">
+<h2 class="h2title">Spell Check</h2>
+<p>While the OCR produces reliable results, dust and print defects might cause some symbols to be recognized incorrectly. Cloud OCR API has a built-in spell checker that automatically replaces misspelled words and frees you from having to manually correct the recognition results.</p>
+</div>
+<div class="col-lg-12">
+<h2 class="h2title">Preserve Formatting</h2>
+<p>Our Cloud OCR API reads all popular typefaces such as Arial, Times New Roman, Courier New, Tahoma, Calibri and more in regular, bold and italic styles and carefully preserves formatting in OCR results. You can also split recognition results into lines and detect text areas in a page, such as paragraphs or tables.</p>
+</div>
+<div class="col-lg-12">
+<h2 class="h2title">Recognize images from the Internet</h2>
+<p>There is no need to upload images and PDF documents to the cloud storage for recognition. Just send the image web link to Cloud OCR and get the text.</p>
+</div>
+<div class="col-lg-12">
+<h2 class="h2title">Unlimited possibilities with Aspose Cloud solutions</h2>
+<p>An account in Aspose Cloud grants you access to the full range of our [cloud APIs](https://www.aspose.cloud/). You can combine image recognition with OMR, easily modify and convert recognized documents to almost any format, analyze and combine data from multiple sources. All tasks are performed in the same way, which significantly speeds up development, reduces learning and maintenance costs, even for the most advanced business solution.</p>
+</div>
 </div>
 </div>
 </div>
@@ -141,19 +309,12 @@ url: /curl
 {{< /blocks/products/pf/support-learning-resources >}}
 
 
-{{< blocks/products/pf/offers-section pfName="Aspose.OCR" >}}
-
-    {{< blocks/products/pf/offers-section-item link="/ocr/curl/" imgSrc="/sdk/aspose_ocr-for-curl.svg" platform="cURL" >}}
-	
-    {{< blocks/products/pf/offers-section-item link="/ocr/net/" imgSrc="/sdk/aspose_ocr-for-net.svg" platform=".NET" >}}
-	
-    {{< blocks/products/pf/offers-section-item link="/ocr/java/" imgSrc="/sdk/aspose_ocr-for-java.svg" platform="Java" >}}
-	
+{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose also offers Cloud OCR SDKs for other popular platforms and programming languages:" >}}
+	{{< blocks/products/pf/offers-section-item link="/ocr/net/" imgSrc="/sdk/aspose_ocr-for-net.svg" platform=".NET" >}}
+	{{< blocks/products/pf/offers-section-item link="/ocr/java/" imgSrc="/sdk/aspose_ocr-for-java.svg" platform="Java" >}}
 	{{< blocks/products/pf/offers-section-item link="/ocr/android/" imgSrc="/sdk/aspose_ocr-for-android.svg" platform="Android" >}}
-    {{< blocks/products/pf/offers-section-item link="/ocr/python/" imgSrc="/sdk/aspose_ocr-for-python.svg" platform="Python" >}}
-	
-    {{< blocks/products/pf/offers-section-item link="/ocr/nodejs/" imgSrc="/sdk/aspose_ocr-for-node.svg" platform="Node.js" >}}
-	
+	{{< blocks/products/pf/offers-section-item link="/ocr/python/" imgSrc="/sdk/aspose_ocr-for-python.svg" platform="Python" >}}
+	{{< blocks/products/pf/offers-section-item link="/ocr/nodejs/" imgSrc="/sdk/aspose_ocr-for-node.svg" platform="Node.js" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

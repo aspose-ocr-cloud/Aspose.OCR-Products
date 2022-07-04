@@ -1,22 +1,21 @@
 ﻿---
-title: Java OCR REST API - OCR Recognition & Image to Text Converter in Cloud 
-description: Add Optical Character Recognition and Document Scanning functionalities to your Java applications in the cloud without any external dependencies
+title: Call OCR Cloud API from Java applications
+description: This SDK simplifies all routine operations for calling Aspose.OCR cloud services from cross-platform Java applications.
 weight: 40
 url: /java
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="OCR Applications Development via Java REST API" h2="Add Optical Character Recognition and Document Scanning functionalities to your Java applications in the cloud without any external dependencies." logoImageSrc="/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Lightweight OCR solutions for Java" h2="Call Aspose.OCR Cloud from Java with this open source SDK to build applications that can read text from images and scanned PDFs on any platform with minimal system requirements." logoImageSrc="/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="Cloud SDK for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_ocr-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/ocr" directDownloadLink="https://github.com/aspose-ocr-cloud/aspose-ocr-cloud-java" liveDemosLink="https://products.aspose.app/ocr/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.OCR Cloud Java SDK helps software developers to include optical character recognition and documents scanning functionality inside their web and Windows applications with minimum efforts and cost.  Java developers can easily add features like extracting text from images and files, character recognition in different languages, automated document layout detection, multi-platform support, and much more.</p>
-<p>Aspose.OCR Cloud Java SDK makes it easy for Java developers to carry out OCR recognition operations on raster images (BMP, JPG, GIF, PNG, TIFF) in the cloud with just a couple of lines of Java code. Using the Java Cloud SDK the OCR operation can be performed either on a whole image or partial image. Recognizing text from a rectangular area as well as automatic & manual document layout detection is also fully supported.</p>
-<p>Aspose.OCR Cloud Java SDK is now using an enhanced skew correction module and it is now possible to recognize slightly rotated images. It also provides an option to directly perform text recognition operation on image files available over web URL.</p>
-
+<p>Aspose.OCR Cloud is a fast and reliable REST API for optical character recognition. With it, you can add optical character recognition to your applications without worrying about system requirements - all resource-intensive tasks are performed by high-performance servers maintained by Aspose. Our API supports European, Cyrillic and Chinese languages and can recognize scanned images, smartphone photos, screenshots, areas of images, and scanned PDFs, returning results in the most popular document and data exchange formats, including JSON.</p>
+<p>This SDK greatly simplifies the integration of Aspose.OCR Cloud services into your Java applications. It wraps all the routine operations such as establishing connections, sending API requests, and parsing responses into a few readable and maintainable methods, allowing you to focus on the tasks at hand rather than the technical details.</p>
+<p>The Java SDK is completely open source without any restrictions or limitations. You can use it along with demo applications for any projects, including commercial applications, and modify any part of the code as needed.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -25,25 +24,88 @@ url: /java
 {{< blocks/products/pf/carousel-item h3="At a Glance"  >}}
 <div class="diagram1 d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-font"> </i>Supported Fonts</header><ul><li>Arial</li>
-<li>Times New Roman</li>
-<li>Courier New</li>
-<li>Tahoma</li>
-<li>Calibri</li>
-<li>Verdana</li>
-</ul><header><i class="fa fa-text-width"> </i>Supported Font Styles</header><ul><li>Regular</li>
-<li>Bold</li>
-<li>Italic</li>
-</ul></div>
+<div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    Core Features
+   </header>
+   <ul>
+    <li>
+     Extract text from scans and photos
+    </li>
+    <li>
+     Create searchable PDFs
+    </li>
+    <li>
+     Automatic image corrections
+    </li>
+    <li>
+     Support multiple typefaces
+    </li>
+    <li>
+     Preserve text formatting
+    </li>
+    <li>
+     Detect text fragments
+    </li>
+    <li>
+     Multi-page processing
+    </li>
+    <li>
+     Spell checking
+    </li>
+   </ul>
+</div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-language"> </i>Supported Languages</header><ul><li>English</li>
-<li>French</li>
-<li>Spanish</li>
-<li>Portuguese</li>
-</ul></div>
+<div class="d1-col d1-right"><header><i class="fa fa-language">
+   <header>
+    <i class="fa fa-language">
+    </i>
+    Supported Languages
+   </header>
+   <ul>
+    <li>
+     English
+    </li>
+    <li>
+     Chinese
+    </li>
+    <li>
+     German
+    </li>
+    <li>
+     French
+    </li>
+    <li>
+     Ukrainian
+    </li>
+    <li>
+     Spanish
+    </li>
+    <li>
+     Czech
+    </li>
+    <li>
+     Polish
+    </li>
+    <li>
+     Romanian
+    </li>
+    <li>
+     Dutch
+    </li>
+    <li>
+     Russian
+    </li>
+    <li>
+     and 10+ more
+    </li>
+   </ul>
+</div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_ocr-for-java.svg" alt="OCR Java Cloud SDK"><header>Aspose.OCR</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_ocr-for-java.svg" alt=" Java SDK for cloud-based OCR API"><header>Aspose.OCR</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -51,21 +113,52 @@ url: /java
 {{< blocks/products/pf/carousel-item h3="Supported File Formats" >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-long-arrow-down "> </i>Input Only</header><ul><li>BMP</li>
-<li>JPG</li>
-<li>GIF</li>
-<li>PNG</li>
-<li>TIFF</li>
-</ul></div>
+<div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Source files
+   </header>
+   <ul>
+    <li>
+     PDF
+    </li>
+    <li>
+     JPEG
+    </li>
+    <li>
+     PNG
+    </li>
+    <li>
+     TIFF
+    </li>
+    <li>
+     GIF
+    </li>
+    <li>
+     BMP
+    </li>
+   </ul>
+</div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-mail-forward "> </i>Output Only</header><ul><li>TXT</li>
-<li>PDF</li>
-<li>HOCR</li>
-</ul>
+<div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Recognition results
+   </header>
+   <ul>
+    <li>Searchable PDF</li>
+    <li>Microsoft Word</li>
+    <li>Microsoft Excel</li>
+    <li>Plain text</li>
+    <li>JSON</li>
+    <li>XML</li>
+   </ul>
  </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_ocr-for-java.svg" alt="Java Cloud SDK for OCR"><header>Aspose.OCR</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_ocr-for-java.svg" alt="Java SDK for Aspose.OCR Cloud"><header>Aspose.OCR</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -82,58 +175,112 @@ url: /java
 <div class="container-fluid features-section bg-gray"><a id="features" class="anchor" name="features"></a> 
 <div class="row">
 <div class="container">
-<h2 class="pr-ft">Advanced OCR API Features</h2>
+<h2 class="pr-ft">Features and capabilities of Aspose.OCR Cloud</h2>
 <p> </p>
-<div class="col-lg-4"><em class="fa fa-image  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Extract and recognize text from images via OCR</p>
+<div class="col-lg-4">
+	<em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+	</em>
+	<p class="col-lg-10">
+	Extracts text from scanned images and PDFs
+	</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-file-text-o  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Recognize text from the whole or partial image</p>
+<div class="col-lg-4">
+	<em class="fa fa-image ico-blue fa-2x col-lg-2">
+	</em>
+	<p class="col-lg-10">
+	Supports all image formats you can get from a scanner or camera
+	</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-image  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Specify portion of the image from which to extract text</p>
+<div class="col-lg-4">
+	<em class="fa fa-globe ico-blue fa-2x col-lg-2">
+	</em>
+	<p class="col-lg-10">
+	Reads languages based on Latin and Cyrillic
+	</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-refresh ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Read character and font information from raster images</p>
+<div class="col-lg-4">
+	<em class="fa fa-language ico-blue fa-2x col-lg-2">
+	</em>
+	<p class="col-lg-10">
+	Recognizes more than 6,000 Chinese characters
+	</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-language  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Return the response in XML or JSON format</p>
+<div class="col-lg-4">
+	<em class="fa fa-bold ico-blue fa-2x col-lg-2">
+	</em>
+	<p class="col-lg-10">
+	Carefully preserves font styles and formatting
+	</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-font  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Recognize English, French or Spanish text from the image</p>
+<div class="col-lg-4">
+	<em class="fa fa-image ico-blue fa-2x col-lg-2">
+	</em>
+	<p class="col-lg-10">
+	Processes the whole image or specific areas only
+	</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-arrows ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Recognize Slightly Rotated Images</p>
+<div class="col-lg-4">
+	<em class="fa fa-map ico-blue fa-2x col-lg-2">
+	</em>
+	<p class="col-lg-10">
+	Automatically corrects rotated, skewed and noisy images
+	</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-cubes ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Automated document layout detection</p>
+<div class="col-lg-4">
+	<em class="fa fa-check ico-blue fa-2x col-lg-2">
+	</em>
+	<p class="col-lg-10">
+	Finds and automatically corrects misspelled words
+	</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-hashtag ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Recognize Text from URL Image</p>
+<div class="col-lg-4">
+	<em class="fa fa-cloud ico-blue fa-2x col-lg-2">
+	</em>
+	<p class="col-lg-10">
+	Requires minimal resources on the end user devices
+	</p>
+</div>
+
+<div class="col-lg-12">
+<h2 class="h2title">26 Recognition Languages</h2>
+<p>Our cloud API can recognize a large number of languages written in different scripts.</p>
+<ul>
+<li><b>Extended Latin alphabet</b>: Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Italian, Latvian, Lithuanian, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish.</li>
+<li><b>Cyrillic alphabet</b>: Belorussian, Bulgarian, Kazakh, Russian, Serbian, Ukrainian.</li>
+<li><b>Chinese</b>: more than 6,000 characters.</li>
+</ul>
 </div>
 <div class="col-lg-12">
-<h2 class="h2title">Get Started with Optical Character Recognition REST API</h2>
-<p>It is easy to get started with Aspose.OCR Cloud for Java and there is nothing to install. Simply create an account at <a href="https://dashboard.aspose.cloud/#/">Aspose for Cloud</a> and get your application information. Once you have the App SID & key, you are ready to give a try to Aspose.OCR Cloud for Java.</p>
+<h2 class="h2title">Read photos and low-quality scans</h2>
+<p>Our API has powerful built-in image pre-processing filters that can correct rotated and skewed images, and automatically remove dirt, spots, scratches, glare, unwanted gradients, and other image defects. In combination with support for all image formats, it allows for reliable recognition of even smartphone photos. Most of the pre-processing and image correction is done automatically, so you will only have to intervene in difficult cases.</p>
 </div>
 <div class="col-lg-12">
-<h2 class="h2title">Recognize & Extract Text from Images</h2>
-<p>Aspose.OCR Cloud Java SDK gives software developers the power to perform optical character recognition (OCR) on images to recognize and extract text from images so that it can be further processed or stored for later use. The API has provided classes and methods for scanning the whole image as well as scanning a specific area containing the characters.  The Java cloud API supports recognizing and extracting information related to characters and fonts attributes.</p>
+<h2 class="h2title">Recognize and convert</h2>
+<p>The API can read literally any image you can get from a scanner, camera or smartphone: PDF documents, JPEG, PNG, TIFF, GIF, and BMP images. Multi-page PDF documents and TIFF files are fully supported.</p>
+<p>Recognition results are returned in the most popular document and data exchange formats: plain text, PDF, Microsoft Word, Microsoft Excel, JSON, and XML.</p>
 </div>
 <div class="col-lg-12">
-<h2 class="h2title">OCR Text Recognition in Multiple Languages</h2>
-<p>Aspose.OCR Cloud Java SDK has provided support for detecting and recognizing characters of numerous languages inside cloud apps. At the moment it has provided support for recognizing text in English, French and German languages. It has also included support for a variety of fonts in different styles, like regular, bold, and italic, and different image formats.</p>
+<h2 class="h2title">Minimal System Requirements</h2>
+<p>Aspose.OCR Cloud is an on-demand optical character recognition service. As such, it has no special hardware or operating system requirements - you can use it even on entry-level systems and mobile devices without loss of accuracy and performance.</p>
+<p>We use highly reliable and high performance GPU-based Amazon servers to host our OCR engine, ensuring the fastest possible speed regardless of the number of requests.</p>
 </div>
 <div class="col-lg-12">
-<h2 class="h2title">Text Recognition from URL Image</h2>
-<p>Aspose.OCR Cloud Java SDK enables Java programmers to recognize text from URL images with just a couple of lines of code inside cloud-based applications. The SDK allows developers to directly perform text recognition operation on image files available over web URLs.  It is not compulsory to upload it to any particular cloud storage. You just need to provide a correct URL of the available image.</p>
+<h2 class="h2title">Spell Check</h2>
+<p>While the OCR produces reliable results, dust and print defects might cause some symbols to be recognized incorrectly. Cloud OCR API has a built-in spell checker that automatically replaces misspelled words and frees you from having to manually correct the recognition results.</p>
 </div>
 <div class="col-lg-12">
-<h2 class="h2title">Recognize Text of Different Languages</h2>
-<p>Aspose.OCR Cloud Java SDK enables software developers to perform an automatic skew correction to straighten images and recognize characters on the image. With advanced image skew, correction algorithm developers are now capable to recognize rotated images with ease and with just fewer lines of code.  It can also successfully read poor quality scans and automatically make image pre-processing to correct low resolution, low contrast, noise and skew.</p>
+<h2 class="h2title">Preserve Formatting</h2>
+<p>Our Cloud OCR API reads all popular typefaces such as Arial, Times New Roman, Courier New, Tahoma, Calibri and more in regular, bold and italic styles and carefully preserves formatting in OCR results. You can also split recognition results into lines and detect text areas in a page, such as paragraphs or tables.</p>
 </div>
-<h2 class="col-lg-12">Supported image formats</h2>
-<div class="col-lg-12"><b><span style="font-weight: 400;"><i>*.bmp, *.dib *.jpeg, *.jpg, *.jpe *.jp2 *.png *.webp *.pbm, *.pgm, *.ppm *.pxm, *.pnm *.pfm *.sr, *.ras .tiff, *.tif *.exr *.hdr, *.pic</i></span></b></div>
-<div class="col-lg-12"> </div>
+<div class="col-lg-12">
+<h2 class="h2title">Recognize images from the Internet</h2>
+<p>There is no need to upload images and PDF documents to the cloud storage for recognition. Just send the image web link to Cloud OCR and get the text.</p>
+</div>
+<div class="col-lg-12">
+<h2 class="h2title">Unlimited possibilities with Aspose Cloud solutions</h2>
+<p>An account in Aspose Cloud grants you access to the full range of our [cloud APIs](https://www.aspose.cloud/). You can combine image recognition with OMR, easily modify and convert recognized documents to almost any format, analyze and combine data from multiple sources. All tasks are performed in the same way, which significantly speeds up development, reduces learning and maintenance costs, even for the most advanced business solution.</p>
+</div>
+
 </div>
 </div>
 </div>
@@ -163,19 +310,11 @@ url: /java
 {{< /blocks/products/pf/support-learning-resources >}}
 
 
-{{< blocks/products/pf/offers-section pfName="Aspose.OCR" >}}
-
-    {{< blocks/products/pf/offers-section-item link="/ocr/curl/" imgSrc="/sdk/aspose_ocr-for-curl.svg" platform="cURL" >}}
-	
-    {{< blocks/products/pf/offers-section-item link="/ocr/net/" imgSrc="/sdk/aspose_ocr-for-net.svg" platform=".NET" >}}
-	
-    {{< blocks/products/pf/offers-section-item link="/ocr/java/" imgSrc="/sdk/aspose_ocr-for-java.svg" platform="Java" >}}
-	
+{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose also offers Cloud OCR SDKs for other popular platforms and programming languages:" >}}
+	{{< blocks/products/pf/offers-section-item link="/ocr/net/" imgSrc="/sdk/aspose_ocr-for-net.svg" platform=".NET" >}}
 	{{< blocks/products/pf/offers-section-item link="/ocr/android/" imgSrc="/sdk/aspose_ocr-for-android.svg" platform="Android" >}}
-    {{< blocks/products/pf/offers-section-item link="/ocr/python/" imgSrc="/sdk/aspose_ocr-for-python.svg" platform="Python" >}}
-	
-    {{< blocks/products/pf/offers-section-item link="/ocr/nodejs/" imgSrc="/sdk/aspose_ocr-for-node.svg" platform="Node.js" >}}
-	
+	{{< blocks/products/pf/offers-section-item link="/ocr/python/" imgSrc="/sdk/aspose_ocr-for-python.svg" platform="Python" >}}
+	{{< blocks/products/pf/offers-section-item link="/ocr/nodejs/" imgSrc="/sdk/aspose_ocr-for-node.svg" platform="Node.js" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
