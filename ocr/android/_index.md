@@ -278,7 +278,7 @@ url: /android
 </div>
 <div class="col-lg-12">
 <h2 class="h2title">Unlimited possibilities with Aspose Cloud solutions</h2>
-<p>An account in Aspose Cloud grants you access to the full range of our [cloud APIs](https://www.aspose.cloud/). You can combine image recognition with OMR, easily modify and convert recognized documents to almost any format, analyze and combine data from multiple sources. All tasks are performed in the same way, which significantly speeds up development, reduces learning and maintenance costs, even for the most advanced business solution.</p>
+<p>An account in Aspose Cloud grants you access to the full range of our <a href="https://www.aspose.cloud/">cloud APIs</a>. You can combine image recognition with OMR, easily modify and convert recognized documents to almost any format, analyze and combine data from multiple sources. All tasks are performed in the same way, which significantly speeds up development, reduces learning and maintenance costs, even for the most advanced business solution.</p>
 </div>
 
 </div>
