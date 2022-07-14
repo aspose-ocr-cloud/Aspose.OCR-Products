@@ -90,16 +90,16 @@ url: /net
      Polish
     </li>
     <li>
-     Romanian
+     Arabic
     </li>
     <li>
-     Dutch
+     Hindi
     </li>
     <li>
      Russian
     </li>
     <li>
-     and 10+ more
+     and many more...
     </li>
    </ul>
 </div>
@@ -139,6 +139,15 @@ url: /net
     <li>
      BMP
     </li>
+    <li>
+     EMF
+    </li>
+    <li>
+     EPS
+    </li>
+    <li>
+     SVG
+    </li>
    </ul>
 </div>
 <!--/left-->
@@ -149,12 +158,11 @@ url: /net
     Recognition results
    </header>
    <ul>
-    <li>Searchable PDF</li>
-    <li>Microsoft Word</li>
-    <li>Microsoft Excel</li>
     <li>Plain text</li>
-    <li>JSON</li>
-    <li>XML</li>
+    <li>Searchable PDF</li>
+    <li>Microsoft Excel</li>
+    <li>CSV</li>
+    <li>hOCR</li>
    </ul>
 </div>
 <!--/right-->
@@ -190,14 +198,14 @@ url: /net
 	<em class="fa fa-image ico-blue fa-2x col-lg-2">
 	</em>
 	<p class="col-lg-10">
-	Supports all image formats you can get from a scanner or camera
+	Supports raster and vector images
 	</p>
 </div>
 <div class="col-lg-4">
 	<em class="fa fa-globe ico-blue fa-2x col-lg-2">
 	</em>
 	<p class="col-lg-10">
-	Reads languages based on Latin and Cyrillic
+	Reads languages based on Latin, Cyrillic, Hindi, Arabic, and other alphabets
 	</p>
 </div>
 <div class="col-lg-4">
@@ -208,10 +216,10 @@ url: /net
 	</p>
 </div>
 <div class="col-lg-4">
-	<em class="fa fa-bold ico-blue fa-2x col-lg-2">
+	<em class="fa fa-table ico-blue fa-2x col-lg-2">
 	</em>
 	<p class="col-lg-10">
-	Carefully preserves font styles and formatting
+	Processes tables and receipts
 	</p>
 </div>
 <div class="col-lg-4">
@@ -244,12 +252,15 @@ url: /net
 </div>
 <div class="col-lg-12">
 
-<h2 class="h2title">26 Recognition Languages</h2>
+<h2 class="h2title">45 Recognition Languages</h2>
 <p>Our cloud API can recognize a large number of languages written in different scripts.</p>
 <ul>
-<li><b>Extended Latin alphabet</b>: Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Italian, Latvian, Lithuanian, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish.</li>
-<li><b>Cyrillic alphabet</b>: Belorussian, Bulgarian, Kazakh, Russian, Serbian, Ukrainian.</li>
-<li><b>Chinese</b>: more than 6,000 characters.</li>
+<li><b>Extended Latin alphabet</b>: Azerbaijani, Albanian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Indonesian, Italian, Javanese, Latin, Latvian, Lithuanian, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish, Turkish, Uzbek, and Vietnamese.</li>
+<li><b>Cyrillic alphabet</b>: Bulgarian, Russian, Serbian, Ukrainian.</li>
+<li><b>Middle Eastern scripts</b>: Arabic, Hebrew, Persian (Farsi), Urdu.</li>
+<li><b>Indic scripts</b>: Bengali, Hindi.</li>
+<li><b>Far East scripts</b>: Chinese, Japanese, Korean, Thai, Tibetan.</li>
+<li><b>Other European alphabets</b>: Georgian, Greek.</li>
 </ul>
 </div>
 <div class="col-lg-12">
@@ -259,7 +270,7 @@ url: /net
 <div class="col-lg-12">
 <h2 class="h2title">Recognize and convert</h2>
 <p>The API can read literally any image you can get from a scanner, camera or smartphone: PDF documents, JPEG, PNG, TIFF, GIF, and BMP images. Multi-page PDF documents and TIFF files are fully supported.</p>
-<p>Recognition results are returned in the most popular document and data exchange formats: plain text, PDF, Microsoft Word, Microsoft Excel, JSON, and XML.</p>
+<p>Recognition results are returned in the most popular document and data exchange formats: plain text, PDF, Microsoft Excel, CSV, and hOCR.</p>
 </div>
 <div class="col-lg-12">
 <h2 class="h2title">Minimal System Requirements</h2>
@@ -271,8 +282,8 @@ url: /net
 <p>While the OCR produces reliable results, dust and print defects might cause some symbols to be recognized incorrectly. Cloud OCR API has a built-in spell checker that automatically replaces misspelled words and frees you from having to manually correct the recognition results.</p>
 </div>
 <div class="col-lg-12">
-<h2 class="h2title">Preserve Formatting</h2>
-<p>Our Cloud OCR API reads all popular typefaces such as Arial, Times New Roman, Courier New, Tahoma, Calibri and more in regular, bold and italic styles and carefully preserves formatting in OCR results. You can also split recognition results into lines and detect text areas in a page, such as paragraphs or tables.</p>
+<h2 class="h2title">Create searchable PDFs</h2>
+<p>Convert a scanned PDF file to a searchable PDF document, which can be easily navigated and indexed. Text in searchable PDF documents can be selected, copied, and marked up.</p>
 </div>
 <div class="col-lg-12">
 <h2 class="h2title">Recognize images from the Internet</h2>

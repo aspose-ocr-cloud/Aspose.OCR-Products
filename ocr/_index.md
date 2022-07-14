@@ -48,7 +48,7 @@ Enhance your C++ applications with optical character recognition capabilities. O
 {{< blocks/products/pf/product-card-row title="Aspose.OCR No Code Apps Include" >}}
 
 {{< blocks/products/pf/product productLink="https://products.aspose.app/ocr/scan-image" pfName="Aspose.OCR " title="Convert Image to Text" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_image-app.png" >}}
-Convert any popular image format to text. Supports 26 languages based on Latin, Cyrillic and Chinese scrips.
+Convert any popular image format to text. Supports Latin, Cyrillic, Chinese, Arabic, and many other scrips.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product productLink="https://products.aspose.app/ocr/ocr-to-pdf" pfName="Aspose.OCR " title="Convert Image to PDF" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_image-app.png" >}}
